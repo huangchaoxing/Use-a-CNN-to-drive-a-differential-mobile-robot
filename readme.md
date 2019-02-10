@@ -10,4 +10,5 @@ We use a classification method to train a shallow CNN model and deploy it on a m
 # Demo video
 [Video](https://www.bilibili.com/video/av42968320)
 # Reference
-[Thanks Feras for organizaing such a nice workshop !The original given provided code adn background are here](https://github.com/fdayoub/RVSS2019-WS)
+Thanks Feras for organizaing such a nice workshop !
+[The original given provided code adn background are here](https://github.com/fdayoub/RVSS2019-WS)
