@@ -1,12 +1,5 @@
-# In this folder 
-
-1. steerDS
-	* A class to load and process the images from a folder and create a dataset for training and testing. 
-2. steerNet
-	* An example of a possible network structure.
-
-# To Do 
-1. build your own network or modify steerNet.
-2. copy the training images you collected to the folder ../dev_data/
-3. write a script to train your network. Use/modify the provided class steerDS to load the images to the network during training. 
+# About  
+This is a solution to the [2019 RVSS workshop] finished by me and @Josh Newans,engineer who works in Newcastle.  
+We use a classification method to train a shallow CNN model and deploy it on a mobile-robot, which enables the robot to drive along the white-green lane with gaps. Before that, we manually drive the robot along the lane and collect for more than 600 images.  
+. 
  
